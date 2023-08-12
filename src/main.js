@@ -15,25 +15,26 @@ function main() {
     }
 
     const tweet = () => {
-        window.open("https://twitter.com/intent/tweet?text=%24KICK%20is%20taking%20the%20W%20%F0%9F%9F%A2%0D%0A%0D%0AMake%20me%20rich%20with%20%40kickcoinarb%0D%0A")
+        window.open("https://twitter.com/intent/tweet?text=My%20proof%20of%20%24GRAPE%20for%20%40GrapeDefi%20%F0%9F%8D%87&")
     }
     const telegram = () => {
-        window.open("https://t.me/KickArb")
+        window.open("https://t.me/GrapeFi")
     }
 
   return (
     <div className='wrap'>
 
         <div className='title'>
-            <h1>TWITCH IS <br/>OUTDATED</h1>
+            <h1>GRAPE IS <br/>COMING</h1>
         </div>
 
         <div className='paragraph'>
-            <p>Join the $KICK industry launching soon on Arbitrum</p>
+            <p>
+            The first Node & Auto-Rebase Protocol coming on Base.</p>
         </div>
 
         <div className='buts'>
-            <button onClick={tweet}>Proof of $KICK</button>
+            <button onClick={tweet}>Proof of $GRAPE</button>
             
         </div>
 
