@@ -22,7 +22,7 @@ body {
   background-color: black;
   align-items: center;
   flex-direction: column;
-  background: url("g.jpg") no-repeat center center /cover;
+  background: url("gas.png") no-repeat center center /cover;
   justify-content: center;
   position: relative;
 }

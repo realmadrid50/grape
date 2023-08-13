@@ -11,7 +11,7 @@ import Medium from './socials-medium.svg'
 function main() {
 
     const openTwitter = () => {
-        window.open("https://twitter.com/kickcoinarb");
+        window.open("https://twitter.com/GrapeDefi");
     }
 
     const tweet = () => {
